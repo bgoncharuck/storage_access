@@ -1,0 +1,22 @@
+name: storage_access
+description: correct saving/loading files as strings
+version: 0.0.1
+author: bgoncharuck
+license: LGPL v2/v3
+homepage: https://github.com/bgoncharuck/storage_access
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.1.8
+  path_provider: ^1.6.7
+  permission_handler: 5.0.0+hotfix.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
