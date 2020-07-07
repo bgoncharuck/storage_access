@@ -2,7 +2,6 @@
 
 Allow correct write/read of files as strings, using:
 - path_provider
-- permission_handler
 
 #### Import:
 ```
