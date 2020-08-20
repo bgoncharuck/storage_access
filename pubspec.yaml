@@ -1,6 +1,6 @@
 name: storage_access
 description: correct saving/loading files as strings, used to abstract opening and closing files with correct path. All you need to do is provide same filename.
-version: 0.0.5
+version: 0.0.6
 license: LGPL v2/v3
 homepage: https://github.com/bgoncharuck/storage_access
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.2.2
+  meta: ^1.1.8
   path_provider: ^1.6.11
 
 dev_dependencies:

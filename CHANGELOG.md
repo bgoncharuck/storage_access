@@ -1,4 +1,14 @@
-### 0.0.5 (HEAD -> master)
+### return meta 1.1.8 for legacy support (HEAD -> master)
+>Thu, 20 Aug 2020 14:07:12 +0300
+
+>Author: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+>Commiter: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+
+
+
+### 0.0.5 (origin/master, origin/HEAD)
 >Thu, 20 Aug 2020 14:01:28 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
@@ -8,7 +18,7 @@
 
 
 
-### removed permission_handler (origin/master, origin/HEAD)
+### removed permission_handler
 >Tue, 7 Jul 2020 13:50:35 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
