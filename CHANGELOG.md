@@ -1,4 +1,14 @@
-### removed permission_handler (HEAD -> master)
+### 0.0.5 (HEAD -> master)
+>Thu, 20 Aug 2020 14:01:28 +0300
+
+>Author: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+>Commiter: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+
+
+
+### removed permission_handler (origin/master, origin/HEAD)
 >Tue, 7 Jul 2020 13:50:35 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
@@ -8,7 +18,7 @@
 
 
 
-### changelog.md (origin/master, origin/HEAD)
+### changelog.md
 >Sat, 4 Jul 2020 17:40:48 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
