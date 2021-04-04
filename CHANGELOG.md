@@ -1,4 +1,14 @@
-### return meta 1.1.8 for legacy support (HEAD -> master)
+### updt path_provider && meta (HEAD -> master)
+>Sun, 4 Apr 2021 17:05:22 +0300
+
+>Author: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+>Commiter: Bohdan Honcharuk (dariydragon26@gmail.com)
+
+
+
+
+### return meta 1.1.8 for legacy support (origin/master, origin/HEAD)
 >Thu, 20 Aug 2020 14:07:12 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
@@ -8,7 +18,7 @@
 
 
 
-### 0.0.5 (origin/master, origin/HEAD)
+### 0.0.5
 >Thu, 20 Aug 2020 14:01:28 +0300
 
 >Author: Bohdan Honcharuk (dariydragon26@gmail.com)
